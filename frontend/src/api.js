@@ -1,4 +1,4 @@
-const API_BASE_URL = "http://localhost:5000/api";
+const API_BASE_URL = "https://healthlink-app-1.onrender.com";
 
 export const submitSupportRequest = async (data) => {
   const response = await fetch(`${API_BASE_URL}/support`, {
