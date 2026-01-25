@@ -31,3 +31,9 @@ yarn-error.log*
 
 # OS
 Thumbs.db
+
+frontend/README.md/
+frontend/public/
+node_modules/
+.env
+.env.example
